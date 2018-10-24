@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="bitms-cpp-api-ws" targetName="bitms-cpp-api-ws" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="496bd4af-735b-46c0-88c3-f6c1c2a59079" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/websocket_endpoint.h" />
+        <option value="$PROJECT_DIR$/websocket_endpoint.cpp" />
+        <option value="$PROJECT_DIR$/server.cpp" />
+        <option value="$PROJECT_DIR$/echo_client.cpp" />
+        <option value="$PROJECT_DIR$/client.cpp" />
+        <option value="$PROJECT_DIR$/lib_client.cpp" />
+        <option value="$PROJECT_DIR$/websocket.h" />
+        <option value="$PROJECT_DIR$/mainw.cpp" />
+        <option value="$PROJECT_DIR$/print_client.cpp" />
+        <option value="$PROJECT_DIR$/print_client_tls.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/Websockets.h" />
+        <option value="$PROJECT_DIR$/testwebsocket.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Websocket_tls.h" />
+        <option value="$PROJECT_DIR$/Websocket.h" />
+        <option value="$PROJECT_DIR$/WebSocket.h" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="39" />
+    <option name="y" value="-3" />
+    <option name="width" value="1401" />
+    <option name="height" value="903" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bitms-cpp-api-ws" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitms-cpp-api-ws" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/boost/include" />
+      <recent name="$PROJECT_DIR$/lib/boost" />
+      <recent name="$PROJECT_DIR$/lib/boost/lib" />
+      <recent name="$PROJECT_DIR$/lib/websocket" />
+      <recent name="$PROJECT_DIR$/lib/openssl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Boost.Test.test_websocket">
+    <configuration name="t_websockets_ptr" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bitms-cpp-api-ws" TARGET_NAME="untitled7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="bitms-cpp-api-ws" RUN_TARGET_NAME="untitled7" TEST_CLASS="s_smart_ptr" TEST_METHOD="t_websockets_ptr" TEST_MODE="SUITE_TEST" />
+    <configuration name="test_case1" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bitms-cpp-api-ws" TARGET_NAME="untitled7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="bitms-cpp-api-ws" RUN_TARGET_NAME="untitled7" TEST_CLASS="test_suite1" TEST_METHOD="test_case1" TEST_MODE="SUITE_TEST" />
+    <configuration name="test_websocket" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bitms-cpp-api-ws" TARGET_NAME="bitms-cpp-api-ws" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="bitms-cpp-api-ws" RUN_TARGET_NAME="bitms-cpp-api-ws" TEST_CLASS="test_suite1" TEST_METHOD="test_websocket" TEST_MODE="SUITE_TEST" />
+    <configuration name="test_websocket_tls" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bitms-cpp-api-ws" TARGET_NAME="bitms-cpp-api-ws" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="bitms-cpp-api-ws" RUN_TARGET_NAME="bitms-cpp-api-ws" TEST_CLASS="test_suite1" TEST_METHOD="test_websocket_tls" TEST_MODE="SUITE_TEST" />
+    <configuration name="test_websockets" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bitms-cpp-api-ws" TARGET_NAME="untitled7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="bitms-cpp-api-ws" RUN_TARGET_NAME="untitled7" TEST_CLASS="test_suite1" TEST_METHOD="test_websockets" TEST_MODE="SUITE_TEST" />
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="bitms-cpp-api-ws" RUN_TARGET_NAME="untitled7" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="bitms-cpp-api-ws" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bitms-cpp-api-ws" TARGET_NAME="bitms-cpp-api-ws" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="bitms-cpp-api-ws" RUN_TARGET_NAME="bitms-cpp-api-ws" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.bitms-cpp-api-ws" />
+      <item itemvalue="Boost.Test.t_websockets_ptr" />
+      <item itemvalue="Boost.Test.test_case1" />
+      <item itemvalue="Boost.Test.test_websockets" />
+      <item itemvalue="Boost.Test.test_websocket" />
+      <item itemvalue="Boost.Test.test_websocket_tls" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Boost.Test.test_websocket" />
+        <item itemvalue="Boost.Test.test_websocket_tls" />
+        <item itemvalue="Boost.Test.test_websockets" />
+        <item itemvalue="Boost.Test.test_case1" />
+        <item itemvalue="Boost.Test.t_websockets_ptr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="496bd4af-735b-46c0-88c3-f6c1c2a59079" name="Default" comment="" />
+      <created>1538105714805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538105714805</updated>
+      <workItem from="1538105717315" duration="37474000" />
+      <workItem from="1538277300616" duration="10504000" />
+      <workItem from="1538292269854" duration="1448000" />
+      <workItem from="1538294984626" duration="276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="test_websockets - 2018.09.30 at 14h 46m 24s.xml">
+      <configuration name="test_websockets" configurationId="CMakeBoostTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_websocket - 2018.09.30 at 14h 46m 33s.xml">
+      <configuration name="test_websocket" configurationId="CMakeBoostTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_websocket - 2018.09.30 at 15h 16m 54s.xml">
+      <configuration name="test_websocket" configurationId="CMakeBoostTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_websocket_tls - 2018.09.30 at 15h 18m 11s.xml">
+      <configuration name="test_websocket_tls" configurationId="CMakeBoostTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_websocket - 2018.09.30 at 15h 27m 05s.xml">
+      <configuration name="test_websocket" configurationId="CMakeBoostTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_websocket_tls - 2018.09.30 at 15h 28m 36s.xml">
+      <configuration name="test_websocket_tls" configurationId="CMakeBoostTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_websocket_tls - 2018.09.30 at 15h 28m 52s.xml">
+      <configuration name="test_websocket_tls" configurationId="CMakeBoostTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_websocket - 2018.09.30 at 16h 06m 53s.xml">
+      <configuration name="test_websocket" configurationId="CMakeBoostTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_websocket_tls - 2018.09.30 at 16h 06m 59s.xml">
+      <configuration name="test_websocket_tls" configurationId="CMakeBoostTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_websocket - 2018.09.30 at 16h 07m 09s.xml">
+      <configuration name="test_websocket" configurationId="CMakeBoostTestRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="49702000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="38" y="-11" width="1403" height="912" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17558886" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CMake" order="7" weight="0.41102758" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32957393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39598998" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32581455" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocket.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocket_tls.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestWebsocket.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bims-cpp-api-ws/CMakeLists.txt" />
+    <entry file="file://$PROJECT_DIR$/print_client_tls.cpp" />
+    <entry file="file://$PROJECT_DIR$/print_client.cpp" />
+    <entry file="file://$PROJECT_DIR$/main.cpp" />
+    <entry file="file://$PROJECT_DIR$/websocketpp/CMakeLists.txt" />
+    <entry file="file://$PROJECT_DIR$/websocket_endpoint.h" />
+    <entry file="file://$PROJECT_DIR$/server.h" />
+    <entry file="file://$PROJECT_DIR$/server.cpp" />
+    <entry file="file:///usr/include/c++/5/bits/shared_ptr.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/websocketpp-master/include/websocketpp/impl/connection_impl.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="431" selection-start-line="431" selection-end-line="431" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/websocketpp-master/include/websocketpp/roles/client_endpoint.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/shared_ptr_base.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="922" selection-start-line="922" selection-end-line="922" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/websocketpp-master/include/websocketpp/transport/asio/security/tls.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="243" selection-start-line="243" selection-end-line="243" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/websocket_endpoint.cpp" />
+    <entry file="file://$PROJECT_DIR$/echo_client.cpp" />
+    <entry file="file://$PROJECT_DIR$/mainw.cpp" />
+    <entry file="file://$PROJECT_DIR$/lib_client.cpp" />
+    <entry file="file://$PROJECT_DIR$/client.cpp" />
+    <entry file="file:///usr/local/include/boost/asio/detail/impl/epoll_reactor.ipp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="470" selection-start-line="470" selection-end-line="470" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Websocket.cpp" />
+    <entry file="file://$PROJECT_DIR$/print_client.cpp" />
+    <entry file="file://$PROJECT_DIR$/../bims-cpp-api-ws/lib/boost/include/boost/test/unit_test_suite.hpp" />
+    <entry file="file://$PROJECT_DIR$/print_client_tls.cpp" />
+    <entry file="file://$PROJECT_DIR$/main.cpp" />
+    <entry file="file://$PROJECT_DIR$/../bims-cpp-api-ws/CMakeLists.txt" />
+    <entry file="file://$PROJECT_DIR$/../bims-cpp-api-ws/Websocket_tls.h" />
+    <entry file="file://$PROJECT_DIR$/../bims-cpp-api-ws/TestWebsocket.cpp" />
+    <entry file="file://$PROJECT_DIR$/../bims-cpp-api-ws/Websocket.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Websocket_tls1.h" />
+    <entry file="file://$PROJECT_DIR$/WebSocket_tls.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocket.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestWebsocket.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

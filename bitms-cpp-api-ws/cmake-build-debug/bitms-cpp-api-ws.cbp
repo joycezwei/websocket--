@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="bitms-cpp-api-ws"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bitms-cpp-api-ws">
+				<Option output="/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/bitms-cpp-api-ws" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_WEBSOCKETPP_CPP11_FUNCTIONAL_"/>
+					<Add option="-D_WEBSOCKETPP_CPP11_THREAD_"/>
+					<Add option="-D_WEBSOCKETPP_CPP11_SYSTEM_ERROR_"/>
+					<Add option="-D_WEBSOCKETPP_CPP11_MEMORY_"/>
+					<Add directory="/home/parallels/CLionProjects/bitms-cpp-api-ws/lib/websocket/include"/>
+					<Add directory="/home/parallels/CLionProjects/bitms-cpp-api-ws/lib/openssl/include"/>
+					<Add directory="/home/parallels/CLionProjects/bitms-cpp-api-ws/lib/boost/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 bitms-cpp-api-ws"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bitms-cpp-api-ws/fast">
+				<Option output="/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/bitms-cpp-api-ws" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_WEBSOCKETPP_CPP11_FUNCTIONAL_"/>
+					<Add option="-D_WEBSOCKETPP_CPP11_THREAD_"/>
+					<Add option="-D_WEBSOCKETPP_CPP11_SYSTEM_ERROR_"/>
+					<Add option="-D_WEBSOCKETPP_CPP11_MEMORY_"/>
+					<Add directory="/home/parallels/CLionProjects/bitms-cpp-api-ws/lib/websocket/include"/>
+					<Add directory="/home/parallels/CLionProjects/bitms-cpp-api-ws/lib/openssl/include"/>
+					<Add directory="/home/parallels/CLionProjects/bitms-cpp-api-ws/lib/boost/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 bitms-cpp-api-ws/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/parallels/CLionProjects/bitms-cpp-api-ws/TestWebsocket.cpp">
+			<Option target="bitms-cpp-api-ws"/>
+		</Unit>
+		<Unit filename="/home/parallels/CLionProjects/bitms-cpp-api-ws/WebSocket.h">
+			<Option target="bitms-cpp-api-ws"/>
+		</Unit>
+		<Unit filename="/home/parallels/CLionProjects/bitms-cpp-api-ws/WebSocket_tls.h">
+			<Option target="bitms-cpp-api-ws"/>
+		</Unit>
+		<Unit filename="/home/parallels/CLionProjects/bitms-cpp-api-ws/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

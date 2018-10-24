@@ -1,0 +1,3 @@
+/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/parallels/CLionProjects/bitms-cpp-api-ws/cmake-build-debug/CMakeFiles/bitms-cpp-api-ws.dir

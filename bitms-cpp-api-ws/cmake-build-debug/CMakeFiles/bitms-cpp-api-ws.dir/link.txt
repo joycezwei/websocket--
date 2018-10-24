@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/bitms-cpp-api-ws.dir/TestWebsocket.cpp.o  -o bitms-cpp-api-ws  -L/home/parallels/CLionProjects/bitms-cpp-api-ws/lib/openssl/lib -Wl,-rpath,/home/parallels/CLionProjects/bitms-cpp-api-ws/lib/openssl/lib -lssl -lcrypto -lboost_system -lboost_system -lssl -lcrypto 
